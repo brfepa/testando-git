@@ -1,5 +1,5 @@
 echo "Dormindo"
-sleep 5
+sleep 10
 echo "Acordando"
 
 
